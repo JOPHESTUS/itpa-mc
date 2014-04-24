@@ -14,5 +14,3 @@ itpa-link: http://itpa.jophest.us
 # https://github.com/JOPHESTUS/itpa/archive/master.zip  and extract it. You'll need to create a folder called "awesomestate" in which
 # the <user>.awesome files will go. For manual creation of the files, just create <name>.awesome and put a number from 0 to 100 in the file
 # for auto creation of these files, you can find a script on the plugin page which makes things easier
-
-#yay
