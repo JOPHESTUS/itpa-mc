@@ -23,7 +23,7 @@ public class isthispersonawesome extends JavaPlugin {
 	PluginDescriptionFile pdfFile;
     String scoreRaw;
 
-//comment lel
+
 
     public void SetupConfig()
     {
