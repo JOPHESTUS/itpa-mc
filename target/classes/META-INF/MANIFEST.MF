@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Main-Class: us.jophest.isthispersonawesome.isthispersonawesome
 
+=======
+Manifest-Version: 1.0
+Main-Class: us.jophest.isthispersonawesome.isthispersonawesome
+
+>>>>>>> 3b17f81a73721b99f280cfc6d3bdae5a15c56cb7
