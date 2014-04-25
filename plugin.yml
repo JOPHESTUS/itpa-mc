@@ -1,0 +1,8 @@
+name: isthispersonawesome
+main: us.jophest.isthispersonawesome.isthispersonawesome
+version: 1.0
+description: A plugin that goes along side the popular isthispersonaweso.me script
+commands:
+    itpa:
+        description: 'Main command'
+author: JOPHESTUS

@@ -1,0 +1,16 @@
+##############################################
+#      isthispersonaweso.me conf             #
+##############################################
+
+# Would you like me to broadcast the result of an itpa publicly or send a message to the command sender?
+# use 'broadcast' or 'msg'
+form: 'broadcast'
+
+# Use your own isthispersonaweso.me instance (root directory of the script)
+itpa-link: http://itpa.jophest.us
+
+
+# To setup your own version of isthispersonaweso.me, just go to http://github.com/jophestus/itpa or download the zip of the files
+# https://github.com/JOPHESTUS/itpa/archive/master.zip  and extract it. You'll need to create a folder called "awesomestate" in which
+# the <user>.awesome files will go. For manual creation of the files, just create <name>.awesome and put a number from 0 to 100 in the file
+# for auto creation of these files, you can find a script on the plugin page which makes things easier
